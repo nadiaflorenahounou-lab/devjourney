@@ -1,2 +1,2 @@
 # devjourney
-Application e-commerce permettant la vente de produits en ligne, avec gestion du catalogue, des commandes et des utilisateurs.
+"Portfolio interactif regroupant mes projets de développement web, mes compétences techniques (SaaS, full-stack, DevOps, IA) et mon parcours professionnel. Découvrez mes réalisations, mon approche méthodologique et ma passion pour l’innovation et l’automatisation”
