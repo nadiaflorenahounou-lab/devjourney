@@ -1,0 +1,53 @@
+/* Reset simple */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+   background:orange;
+}
+
+/* HEADER */
+header {
+  background: #222;
+  padding: 15px 30px;
+}
+
+/* MENU */
+header ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-start; /* menu à gauche */
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+}
+
+/* CONTENU PRINCIPAL */
+main {
+  text-align: center; /* centre tout le contenu du main */
+  margin-top: 40px;
+}
+
+main h1 {
+  color: black;
+  font-size: 40px;
+}
+
+main p {
+  text-align: center;
+  max-width: 700px;
+  margin: 10px auto;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  margin-top: 60px;
+}
